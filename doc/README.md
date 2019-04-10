@@ -38,3 +38,7 @@
 	Android:http://s8.mogucdn.com/download/TeamTalk/OpenSource/TeamTalk-Android-0331.apk
 	Mac:http://s21.mogucdn.com/download/TeamTalk/OpenSource/TeamTalk-Mac.zip
 	Windows:http://s21.mogucdn.com/download/TeamTalk/OpenSource/TeamTalk-win.zip
+## 6、参考
+	TeamTalk部署详细过程（跳过各种坑）
+	https://blog.csdn.net/yiyefangzhou24/article/details/82878339
+	
